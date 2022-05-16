@@ -1,3 +1,1 @@
-### 사람들을 도와주는 개발자가 되길 바랍니다 😀
-
-이전 [깃허브](https://github.com/JChan91)로 부터 이동했습니다!
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
