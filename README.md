@@ -1,3 +1,1 @@
-have fun 😀
-
-**developer**
+**have fun 😀**
